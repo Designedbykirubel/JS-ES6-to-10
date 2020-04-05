@@ -9,7 +9,7 @@ export default function add(a,b) {a};
 //IMPORT 
 
 //JS FILE 2!
-/// destrucutr more thena one function 
+/// import & destrucutre  more than one function 
 import {add} from './add';
 //or just one function 
 import add from './add';cd 
